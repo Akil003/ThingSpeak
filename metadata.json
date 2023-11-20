@@ -1,0 +1,107 @@
+
+    {"paddy": {
+        "fields": [
+          {
+            "index": 1,
+            "name": "Humidity (AIR)",
+            "range": {"min": 50, "max": 80},
+            "unit": "%"
+          },
+          {
+            "index": 2,
+            "name": "Nitrogen",
+            "range": {"min": 10, "max": 30},
+            "unit": "ppm"
+          },
+          {
+            "index": 3,
+            "name": "Phosphorus",
+            "range": {"min": 5, "max": 20},
+            "unit": "ppm"
+          },
+          {
+            "index": 4,
+            "name": "Potassium",
+            "range": {"min": 10, "max": 30},
+            "unit": "ppm"
+          },
+          {
+            "index": 5,
+            "name": "LDR Value",
+            "range": {"min": 1, "max": 1},
+            "unit": "raw"
+          },
+          {
+            "index": 6,
+            "name": "Moisture Percentage",
+            "range": {"min": 60, "max": 80},
+            "unit": "%"
+          },
+          {
+            "index": 7,
+            "name": "Soil Temperature",
+            "range": {"min": 20, "max": 35},
+            "unit": "°C"
+          },
+          {
+            "index": 8,
+            "name": "Temperature (AIR)",
+            "range": {"min": 25, "max": 35},
+            "unit": "°C"
+          }
+        ]
+      }
+      ,
+      "wheat":{
+        "fields": [
+          {
+            "index": 1,
+            "name": "Humidity (AIR)",
+            "range": {"min": 40, "max": 70},
+            "unit": "%"
+          },
+          {
+            "index": 2,
+            "name": "Nitrogen",
+            "range": {"min": 20, "max": 40},
+            "unit": "ppm"
+          },
+          {
+            "index": 3,
+            "name": "Phosphorus",
+            "range": {"min": 10, "max": 30},
+            "unit": "ppm"
+          },
+          {
+            "index": 4,
+            "name": "Potassium",
+            "range": {"min": 15, "max": 35},
+            "unit": "ppm"
+          },
+          {
+            "index": 5,
+            "name": "LDR Value",
+            "range": {"min": 1, "max": 1},
+            "unit": "raw"
+          },
+          {
+            "index": 6,
+            "name": "Moisture Percentage",
+            "range": {"min": 40, "max": 60},
+            "unit": "%"
+          },
+          {
+            "index": 7,
+            "name": "Soil Temperature",
+            "range": {"min": 15, "max": 30},
+            "unit": "°C"
+          },
+          {
+            "index": 8,
+            "name": "Temperature (AIR)",
+            "range": {"min": 20, "max": 30},
+            "unit": "°C"
+          }
+        ]
+      }
+    }
